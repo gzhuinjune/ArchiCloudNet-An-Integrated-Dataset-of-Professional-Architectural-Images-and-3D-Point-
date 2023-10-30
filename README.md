@@ -1,0 +1,2 @@
+# ArchiCloudNet-An-Integrated-Dataset-of-Professional-Architectural-Images-and-3D-Point-
+The Dataset: This dataset includes three categories of professional architectural images, each paired with 3D architectural point cloud data. These images, sourced from the architectural design process, come with specific camera parameters and are categorized into line drawings, shadowed block diagrams, and architectural renderings.
